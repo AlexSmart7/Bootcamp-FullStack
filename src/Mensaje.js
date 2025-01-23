@@ -14,5 +14,7 @@ const MensajeProp = (props) => {
 } 
 
 
+
 const Component = { Titulo, MensajeProp };
+
 export default Component;
